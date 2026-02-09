@@ -13,10 +13,11 @@ This project analyzes sales data stored in a CSV file using core Python. It proc
 ## Project Structure
 
 sales-data-analysis-python/
-├── main.py
-├── utils.py
-├── sales.csv
-└── README.md
+    /main.py
+    /utils.py
+    /sales.csv
+    /README.md
+
 
 ## Dataset
 The dataset (sales.csv) contains the following fields:
